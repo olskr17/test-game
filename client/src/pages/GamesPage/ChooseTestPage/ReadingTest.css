@@ -1,0 +1,24 @@
+.quiz-container{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.quiz-container h2{
+    margin: 2rem;
+}
+
+.quizList-ul{
+    display: flex;
+    padding: 2rem;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.quizList-ul li{
+    border: 1px solid darkorange;
+    padding: 1.5rem;
+    margin: 0.5rem;
+}

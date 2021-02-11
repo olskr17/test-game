@@ -1,0 +1,32 @@
+.quiz-container{
+    width: 60vw;
+    margin: 11rem auto;
+
+    /*text-align: center;*/
+}
+
+.quiz-container h1{
+    margin: 1rem;
+}
+
+.quiz-container p{
+    margin: 1rem;
+}
+
+.question-checkbox{
+    /*margin: 1rem;*/
+
+}
+
+.input-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.quiz-container ul{
+    list-style: none;
+}
+
+.input-box div{
+    margin: 1rem;
+}

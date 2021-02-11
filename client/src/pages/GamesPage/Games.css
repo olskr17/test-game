@@ -1,0 +1,28 @@
+.games-container{
+    height: calc(100vh - 5rem);
+    width: 100vw;
+}
+
+.gamesList{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    list-style: none;
+}
+
+.gamesList-item{
+    width: 50%;
+    height: 50%;
+    border: 2px solid grey;
+    font-size: 4rem;
+}
+
+.gamesList-item a{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
